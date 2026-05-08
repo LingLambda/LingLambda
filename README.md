@@ -4,3 +4,6 @@
 
 死宅，交流能力差，内向，请主动联系我
 
+## 语言
+
+Java Go TS RS GDS Python Lua
