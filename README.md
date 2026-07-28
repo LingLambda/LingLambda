@@ -4,7 +4,7 @@
 
 ## 语言
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,go,typescript,rust,godot,python,lua" />
   </a>
