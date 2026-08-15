@@ -1,6 +1,6 @@
 ## About Me
 
-普通人🧍、计算机爱好者🖥️、程序员🧑🏻‍💻、死宅🏠
+🧍 Everyday Person | 🖥️ Tech Enthusiast | 🧑🏻‍💻 Programmer | 🏠 Otaku
 
 ## Language
 
